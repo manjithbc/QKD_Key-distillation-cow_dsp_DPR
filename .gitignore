@@ -1,0 +1,7 @@
+.Xil/
+*.cache/
+*.data/
+*.runs/
+*.srcs/
+*.project
+*.log
